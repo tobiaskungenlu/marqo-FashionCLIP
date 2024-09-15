@@ -1,6 +1,6 @@
 {
   "name": "DeepFashion-InShop",
-  "hf_dataset": "Marqo/deepfashion-inshop",
+  "hf_dataset": "Marqo/deepfashion-inshop_chinese",
   "tasks":[
     {
       "name": "text-to-image",
