@@ -1,6 +1,6 @@
 MODEL_NAME=Marqo/marqo-fashionSigLIP
 
-# for DATASET in 'deepfashion_inshop' 'deepfashion_multimodal' 'fashion200k' 'KAGL' 'atlas' 'polyvore' 'iMaterialist'
+# for DATASET in 'deepfashion_inshop_chinese' 'deepfashion_multimodal_chinese' 'fashion200k_chinese' 'KAGL_chinese' 'atlas_chinese' 'polyvore_chinese' #'iMaterialist'
 for DATASET in 'deepfashion_inshop'
 do
     python3 eval.py \
